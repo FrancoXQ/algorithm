@@ -12,7 +12,7 @@ package array;
  * @author Franco_Q
  * @date 2019/3/27 11:19
  */
-public class Solution {
+public class MaxProfit {
     public int maxProfit(int[] prices) {
         if (prices == null || prices.length ==0) {
             return 0;
